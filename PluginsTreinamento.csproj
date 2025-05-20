@@ -98,8 +98,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PluginAccountPostOperation.cs" />
     <Compile Include="PluginAccountPreOperation.cs" />
     <Compile Include="PluginAccountPreValidation.cs" />
+    <Compile Include="PluginAssincPostOperation.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
