@@ -98,6 +98,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ActionBuscaCEP.cs" />
+    <Compile Include="MinhaPrimeiraAction.cs" />
     <Compile Include="PluginAccountPostOperation.cs" />
     <Compile Include="PluginAccountPreOperation.cs" />
     <Compile Include="PluginAccountPreValidation.cs" />

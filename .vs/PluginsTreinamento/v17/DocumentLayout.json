@@ -3,20 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|c:\\users\\adria\\onedrive\\\u00E1rea de trabalho\\projetos dio\\c#\\pluginstreinamento\\pluginstreinamento\\pluginassincpostoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|c:\\users\\adria\\onedrive\\\u00E1rea de trabalho\\projetos dio\\c#\\pluginstreinamento\\pluginstreinamento\\actionbuscacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|solutionrelative:actionbuscacep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\minhaprimeiraaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|solutionrelative:minhaprimeiraaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\pluginassincpostoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|solutionrelative:pluginassincpostoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|c:\\users\\adria\\onedrive\\\u00E1rea de trabalho\\projetos dio\\c#\\pluginstreinamento\\pluginstreinamento\\pluginaccountpostoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|solutionrelative:pluginaccountpostoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|c:\\users\\adria\\onedrive\\\u00E1rea de trabalho\\projetos dio\\c#\\pluginstreinamento\\pluginstreinamento\\pluginaccountpreoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|solutionrelative:pluginaccountpreoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\pluginaccountprevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8512A19-F974-4CE6-9F69-2520A4C4A8CB}|PluginsTreinamento.csproj|solutionrelative:pluginaccountprevalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +27,39 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PluginAssincPostOperation.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\PluginAssincPostOperation.cs",
-              "RelativeDocumentMoniker": "PluginAssincPostOperation.cs",
-              "ToolTip": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\PluginAssincPostOperation.cs",
-              "RelativeToolTip": "PluginAssincPostOperation.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAgwDAAAAANAAAAAAAAAA==",
+              "Title": "ActionBuscaCEP.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\ActionBuscaCEP.cs",
+              "RelativeDocumentMoniker": "ActionBuscaCEP.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\ActionBuscaCEP.cs",
+              "RelativeToolTip": "ActionBuscaCEP.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T04:40:14.272Z",
+              "WhenOpened": "2025-05-21T03:26:38.493Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PluginAccountPostOperation.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\PluginAccountPostOperation.cs",
-              "RelativeDocumentMoniker": "PluginAccountPostOperation.cs",
-              "ToolTip": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\PluginAccountPostOperation.cs",
-              "RelativeToolTip": "PluginAccountPostOperation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABcAAAAAAAAAA==",
+              "Title": "MinhaPrimeiraAction.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\MinhaPrimeiraAction.cs",
+              "RelativeDocumentMoniker": "MinhaPrimeiraAction.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\MinhaPrimeiraAction.cs",
+              "RelativeToolTip": "MinhaPrimeiraAction.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:49:31.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T02:03:45.773Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PluginAccountPreOperation.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\PluginAccountPreOperation.cs",
-              "RelativeDocumentMoniker": "PluginAccountPreOperation.cs",
-              "ToolTip": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\PluginAccountPreOperation.cs",
-              "RelativeToolTip": "PluginAccountPreOperation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Title": "PluginAssincPostOperation.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\PluginAssincPostOperation.cs",
+              "RelativeDocumentMoniker": "PluginAssincPostOperation.cs",
+              "ToolTip": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\PluginAssincPostOperation.cs",
+              "RelativeToolTip": "PluginAssincPostOperation.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCkAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T03:18:07.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PluginAccountPreValidation.cs",
-              "DocumentMoniker": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\PluginAccountPreValidation.cs",
-              "RelativeDocumentMoniker": "PluginAccountPreValidation.cs",
-              "ToolTip": "C:\\Users\\adria\\OneDrive\\\u00C1rea de Trabalho\\Projetos DIO\\C#\\PluginsTreinamento\\PluginsTreinamento\\PluginAccountPreValidation.cs",
-              "RelativeToolTip": "PluginAccountPreValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T02:07:12.568Z"
+              "WhenOpened": "2025-05-20T04:40:14.272Z"
             }
           ]
         }
